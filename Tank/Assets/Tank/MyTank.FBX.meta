@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: d593b6091f93a9541bb5ccda51b1e812
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Corpus
+    100002: Cylinder001
+    100004: Cylinder003
+    100006: Cylinder009
+    100008: Cylinder010
+    100010: //RootNode
+    100012: RightGusli
+    100014: RightGusli001
+    100016: TowerRotate
+    100018: Tube001
+    100020: Tube003
+    100022: Tube004
+    100024: Tube005
+    100026: Tube006
+    100028: Tube007
+    100030: Tube008
+    100032: Tube009
+    100034: Tube010
+    100036: Tube011
+    100038: Tube012
+    100040: Tube013
+    100042: Tube014
+    100044: Tube015
+    100046: Tube016
+    100048: Tube017
+    100050: Tube018
+    100052: Tube019
+    100054: Tube020
+    100056: Tube021
+    100058: Tube022
+    100060: Tube023
+    400000: Corpus
+    400002: Cylinder001
+    400004: Cylinder003
+    400006: Cylinder009
+    400008: Cylinder010
+    400010: //RootNode
+    400012: RightGusli
+    400014: RightGusli001
+    400016: TowerRotate
+    400018: Tube001
+    400020: Tube003
+    400022: Tube004
+    400024: Tube005
+    400026: Tube006
+    400028: Tube007
+    400030: Tube008
+    400032: Tube009
+    400034: Tube010
+    400036: Tube011
+    400038: Tube012
+    400040: Tube013
+    400042: Tube014
+    400044: Tube015
+    400046: Tube016
+    400048: Tube017
+    400050: Tube018
+    400052: Tube019
+    400054: Tube020
+    400056: Tube021
+    400058: Tube022
+    400060: Tube023
+    2100000: No Name
+    2100002: 01 - Default
+    2300000: Corpus
+    2300002: Cylinder001
+    2300004: Cylinder003
+    2300006: Cylinder009
+    2300008: Cylinder010
+    2300010: RightGusli
+    2300012: RightGusli001
+    2300014: TowerRotate
+    2300016: Tube001
+    2300018: Tube003
+    2300020: Tube004
+    2300022: Tube005
+    2300024: Tube006
+    2300026: Tube007
+    2300028: Tube008
+    2300030: Tube009
+    2300032: Tube010
+    2300034: Tube011
+    2300036: Tube012
+    2300038: Tube013
+    2300040: Tube014
+    2300042: Tube015
+    2300044: Tube016
+    2300046: Tube017
+    2300048: Tube018
+    2300050: Tube019
+    2300052: Tube020
+    2300054: Tube021
+    2300056: Tube022
+    2300058: Tube023
+    3300000: Corpus
+    3300002: Cylinder001
+    3300004: Cylinder003
+    3300006: Cylinder009
+    3300008: Cylinder010
+    3300010: RightGusli
+    3300012: RightGusli001
+    3300014: TowerRotate
+    3300016: Tube001
+    3300018: Tube003
+    3300020: Tube004
+    3300022: Tube005
+    3300024: Tube006
+    3300026: Tube007
+    3300028: Tube008
+    3300030: Tube009
+    3300032: Tube010
+    3300034: Tube011
+    3300036: Tube012
+    3300038: Tube013
+    3300040: Tube014
+    3300042: Tube015
+    3300044: Tube016
+    3300046: Tube017
+    3300048: Tube018
+    3300050: Tube019
+    3300052: Tube020
+    3300054: Tube021
+    3300056: Tube022
+    3300058: Tube023
+    4300000: Corpus
+    4300002: RightGusli
+    4300004: Tube001
+    4300006: Tube003
+    4300008: Tube004
+    4300010: Tube005
+    4300012: Tube006
+    4300014: Tube007
+    4300016: Tube008
+    4300018: Tube009
+    4300020: Tube010
+    4300022: Tube011
+    4300024: Tube012
+    4300026: Cylinder001
+    4300028: Cylinder003
+    4300030: Cylinder009
+    4300032: TowerRotate
+    4300034: RightGusli001
+    4300036: Tube013
+    4300038: Tube014
+    4300040: Tube015
+    4300042: Tube016
+    4300044: Tube017
+    4300046: Tube018
+    4300048: Tube019
+    4300050: Tube020
+    4300052: Tube021
+    4300054: Tube022
+    4300056: Tube023
+    4300058: Cylinder010
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
